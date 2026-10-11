@@ -1,0 +1,5 @@
+,AbsRel_raw,AbsRel_scaled,dyn_scaled,tex_scaled,logbias,flickerLog,flickerLogDyn
+"Teacher, fixed INVERSE-depth mapping (train scenes)",0.3223,0.2072,0.1404,0.1254,-0.4267,0.0315,0.0331
+"Teacher, fixed log mapping",0.2638,0.1768,0.2101,0.1414,0.0,0.0544,0.0555
+"Teacher, fixed inverse mapping",0.2623,0.1711,0.2003,0.148,-0.0284,0.0559,0.0462
+Student epoch 5,0.1814,0.116,0.1282,0.09,0.008,0.0462,0.0401

@@ -1,0 +1,2 @@
+variant,test_scene,seed,epochs,params,AbsRel_raw,AbsRel_scaled,dyn_scaled,tex_scaled,logbias,flickerLog,flickerLogDyn
+notemporal,Scene01,1,10,29715,0.1981429947316507,0.1467920175101588,0.1289690441625565,0.1318278699485133,0.0705316240030949,0.061456555668183116,0.06324572929301021

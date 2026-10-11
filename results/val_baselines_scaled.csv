@@ -1,0 +1,5 @@
+,AbsRel_raw,AbsRel_scaled,dyn_scaled,tex_scaled,logbias,flickerLog,flickerLogDyn
+"1 Teacher, fixed mapping from TRAIN scenes (fair)",0.2819,0.2081,0.1044,0.1207,-0.358,0.0361,0.0338
+"3 Teacher, refit every frame (oracle ceiling)",0.1052,0.1044,0.1052,0.0273,-0.0087,0.0277,0.0399
+"4 Student, epoch 4 (best.pt)",0.2121,0.1401,0.1456,0.0688,-0.2399,0.0313,0.0377
+"5 Student, epoch 5 (last.pt)",0.2249,0.1334,0.144,0.0673,-0.2576,0.0316,0.0375
